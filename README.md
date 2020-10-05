@@ -1,7 +1,7 @@
 # U.S. Presidential Executive Order Corpus
 
 This repository gathers the html for U.S. Presidential Executive Orders between 1995 and 2020, as of October 04, 2020. 
-The Executive Orders were collected from the [Federal Register]("https://www.federalregister.gov/presidential-documents/executive-orders") archive. The orders are sorted by year.
+The Executive Orders were collected from the [Federal Register](https://www.federalregister.gov/presidential-documents/executive-orders "Federal Register") archive. The orders are sorted by year.
 
 The Presidential Terms covered include:  
 - 1994 - 2001: William J. Clinton  
